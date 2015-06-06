@@ -1,4 +1,4 @@
-# Home Android Program  
+# My Sample Engine (OpenGL)
 
 项目目标：  
-1. 编写个性化的桌面程序(大屏幕)    
+1. 记录学习OpenGL过程中的产出的一些小程序。
